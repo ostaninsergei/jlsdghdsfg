@@ -1,0 +1,42 @@
+<html>
+<title>Прикол</title>
+<body style="background-color:#6495ED">
+<header style="background-color:lightblue; font-size:20px; text-align:center">
+    <a href="#mem1" style="text-align:left; color: white"> Первый мем </a>
+    <a href="#mem2" style="text-align:center; color: white"> Второй мем </a>
+    <a href="#mem3" style="text-align:right; color: white"> Третий мем </a>
+</header>
+<main>
+    <h1 style="text-align:center; color: white"> Тут я собрал прикольные мемы </h1>
+    <table style="background-color:white; border-collapse:collapse">
+        <tr style="border:1px solid black">
+            <td style="border:1px solid black">Название мема </td>
+            <td style="border:1px solid black">Оценка</td>
+        </tr>
+        <tr style="border:1px solid black"> 
+            <td style="border:1px solid black"> Never Gonna </td>
+            <td style="border:1px solid black"> 5 </td>
+        </tr>
+        <tr style="border:1px solid black">
+            <td style="border:1px solid black"> Ухади </td>
+            <td style="border:1px solid black"> 4 </td>
+        </tr>
+        <tr style="border:1px solid black">
+            <td style="border:1px solid black"> Нельзя просто так </td>
+            <td style="border:1px solid black"> 5 </td>
+        </tr>
+    </table>
+    <h2 id="mem1" style="text-align:center; color: white"> Never Gonna <h2>
+    <p style="text-align:center"><img src="https://neonmusic.online/wp-content/uploads/2023/09/rickroll-hd-696x381-1.jpg" height="200px" width="400px"></p>
+
+    <h2 id="mem2" style="text-align:center; color: white"> Ухади <h2>
+    <p style="text-align:center"><img src="https://sun9-77.userapi.com/impf/c628116/v628116572/2492f/GZy541S7lH4.jpg?size=368x604&quality=96&sign=b530efb14c271007be63a2707b2fc6d6&type=album" height="200px" width="300px"></p>
+
+    <h2 id="mem3" style="text-align:center; color: white"> Нельзя просто так взять <h2>
+    <p style="text-align:center"><img src="https://cs4.pikabu.ru/post_img/2016/05/31/6/1464686441193214076.jpg" height="200px" width="400px"></p>
+</main>
+<footer>
+    <p>Вк нет, инсты нет, телеги нет, меня не существует</p>
+</footer>
+</body>
+</html>
